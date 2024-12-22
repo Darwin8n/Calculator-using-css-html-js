@@ -27,7 +27,7 @@ Installation
 Follow these steps to run the calculator locally:
 	1.	Clone the repository:
 
-git clone https://github.com/your-username/calculator.git
+git clone [https://github.com/Darwin8n/calculator.git](https://github.com/Darwin8n/Calculator-using-css-html-js.git)
 
 
 	2.	Navigate to the project directory:
